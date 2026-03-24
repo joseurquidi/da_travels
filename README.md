@@ -28,3 +28,16 @@ El análisis se desarrolló a través de las siguientes etapas:
 - Construcción de gráficos para facilitar la interpretación de los datos
 
 ## Conclusiones y Recomendaciones
+### Conclusiones
+- El costo del viaje a Rio de Janeiro es relativamente estable durante el año Oscila aproximadamente entre ~1790 y ~2180
+
+- El análisis mensual del costo total de viaje a Rio de Janeiro muestra una estacionalidad moderada, con precios relativamente estables durante la mayor parte del año. Sin embargo, se identifica un pico significativo en octubre, lo que sugiere una alta demanda o eventos específicos en ese periodo. Por otro lado, los meses de mayo y julio presentan los costos más bajos, posicionándose como las mejores opciones para viajeros que buscan minimizar gastos.
+
+### Recomendaciones
+- Diseñar estrategias de fidelización enfocadas en usuarios recurrentes para maximizar su valor.
+
+- Analizar el comportamiento de usuarios con alta frecuencia para identificar patrones replicables.
+
+- Evaluar otros factores que puedan influir en la disminución de usuarios, como experiencia, disponibilidad o competencia.
+
+- En futuros análisis, incorporar datasets más completos que incluyan conexiones y comportamiento realista de viaje.
