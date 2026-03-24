@@ -1,6 +1,8 @@
 # Travel Dataset
-## Objetivo
-Identificar el destino más popular entre usuarios de 25 a 35 años y evaluar, entre estos destinos, cuál presenta el menor costo total promedio por viaje, considerando la suma del precio del vuelo y la reservación de hotel.
+Este proyecto analiza datos de vuelos y hoteles para identificar los destinos más populares y económicos entre usuarios de 25 a 35 años, calculando el costo total del viaje (vuelo + hospedaje). A través de limpieza de datos, uniones entre tablas y visualizaciones, detectar patrones de demanda, precios y estacionalidad que permiten entender mejor el comportamiento de viaje de este segmento.
+## Preguntas de negocio
+- ¿Cuáles son los destinos más populares entre usuarios de 25 a 35 años?
+- ¿Cuáles son los destinos más económicos considerando el costo total del viaje (vuelo + hospedaje)?
 ## Proceso de análisis
 El análisis se desarrolló a través de las siguientes etapas:
 
@@ -24,3 +26,5 @@ El análisis se desarrolló a través de las siguientes etapas:
 - Validación de la integridad entre tablas (relaciones entre datasets)
 ### Visualización
 - Construcción de gráficos para facilitar la interpretación de los datos
+
+## Conclusiones y Recomendaciones
